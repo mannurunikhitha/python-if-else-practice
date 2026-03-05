@@ -1,3 +1,4 @@
+# Program to calculate grade based on marks
 marks = int(input("Enter your marks: "))
 
 if marks >= 90:
@@ -7,4 +8,5 @@ elif marks >= 75:
 elif marks >= 50:
     print("Grade C")
 else:
+
     print("Fail")
